@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Mahdi Alaa Aldin 👋</h1>
+# Hi, I'm Mahdi Alaa Aldin 👋
 
 <p align="center">
 Backend Developer • AI Engineer • Open Source Builder
 </p>
 
 <p align="center">
-I build scalable backend systems, AI-powered applications, and polished browser-first tools that solve real problems.
+I build scalable backend systems, AI-powered applications, browser extensions, and developer tools with a focus on performance, usability, and real-world impact.
 </p>
 
 <p align="center">
@@ -19,39 +19,34 @@ I build scalable backend systems, AI-powered applications, and polished browser-
 ## 🚀 About Me
 
 - 💼 Backend Developer at **Arkam Banking**
-- ⚙️ Specializing in **ASP.NET Core**, **SQL Server**, and REST APIs
-- 🤖 Passionate about AI, Computer Vision, and LLM applications
-- 🌐 Building privacy-first browser applications and developer tools
-- 🎯 Focused on creating software that is fast, practical, and production-ready
+- ⚙️ Building scalable APIs with **ASP.NET Core** and **SQL Server**
+- 🤖 Passionate about AI, LLMs, Computer Vision, and automation
+- 🌍 Creating open-source software used by developers worldwide
+- 🚀 Always building the next useful tool
 
 ---
 
 ## 🛠 Tech Stack
 
 **Backend**
-
 - ASP.NET Core
 - C#
 - SQL Server
 - REST APIs
-- Entity Framework
+- Entity Framework Core
 
 **Frontend**
-
 - HTML
 - CSS
 - JavaScript
 
 **AI**
-
 - Google Gemini
-- Computer Vision
 - YOLOv8
-- PyTorch
+- Computer Vision
 - Prompt Engineering
 
 **Tools**
-
 - Git
 - GitHub
 - Docker
@@ -60,46 +55,65 @@ I build scalable backend systems, AI-powered applications, and polished browser-
 
 ---
 
-# ⭐ Featured Projects
+# 🌟 Featured Projects
 
 ## 🚀 CodeSavvy
-AI-powered Chrome extension for developers featuring writing assistance, page utilities, debugging tools, and productivity enhancements.
+AI-powered Chrome Extension that enhances browsing with grammar correction, rewriting, developer utilities, and page productivity tools.
 
-## 🔍 TripleLens
-Modern SPARQL Query Studio for RDF ontologies with an intuitive interface and advanced query capabilities.
+🔗 Chrome Web Store  
+https://chromewebstore.google.com/detail/codesavvy/jenendhnlcnokliclhccikgeohdgfhml
 
-## 🚦 AI Traffic Monitoring System
-Master's thesis combining YOLOv8, ByteTrack, EasyOCR, and Gemini to transform traffic videos into real-time analytics.
+---
+
+## 📊 Instagram Analyzer
+Analyze Instagram profiles and generate detailed insights.
+
+🔗 https://github.com/mahdialaaaldin/instagram-analyzer
+
+---
+
+## 🎙 Verbatim
+AI-powered speech transcription and productivity tool.
+
+🔗 https://github.com/mahdialaaaldin/verbatim
+
+---
 
 ## 📓 Jupyter Notebook to PDF Converter
-A production-quality browser application for converting Jupyter notebooks into polished PDFs.
+Professional browser-based converter for turning Jupyter notebooks into polished PDFs.
+
+🔗 https://github.com/mahdialaaaldin/ipynb-to-pdf-converter
+
+---
+
+## 🧠 Meeting Scenario Ontology
+Ontology project for modeling meeting scenarios and semantic relationships.
+
+🔗 https://github.com/mahdialaaaldin/meeting-scenario-ontology
+
+---
+
+## 🔐 JWT Debugger
+Inspect, decode, and debug JSON Web Tokens directly in the browser.
+
+🔗 https://github.com/mahdialaaaldin/jwt-debugger
+
+---
 
 ## 🥗 Diet Guide
-A modern web application for managing meal plans, food alternatives, and dietary guidance.
+Modern nutrition and meal-planning web application.
 
-## 🌐 Personal Portfolio
-A fully responsive developer portfolio built with HTML, CSS, and JavaScript.
-
----
-
-## 📈 What I Enjoy Building
-
-- Banking & FinTech systems
-- AI-powered web applications
-- Chrome Extensions
-- Developer tools
-- Browser-first software
-- Open-source projects
+🔗 https://github.com/mahdialaaaldin/diet-guide
 
 ---
 
-## 🌍 Find Me
+## 📫 Connect
 
-🌐 **Portfolio**  
+🌐 Portfolio  
 https://mahdialaaaldin.github.io
 
-💼 **LinkedIn**  
+💼 LinkedIn  
 https://linkedin.com/in/mahdialaaaldin
 
-💻 **GitHub**  
+💻 GitHub  
 https://github.com/mahdialaaaldin
